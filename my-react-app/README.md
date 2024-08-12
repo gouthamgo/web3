@@ -2,6 +2,9 @@
 
 Live : https://web3-theta-three.vercel.app/
 
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/867a4cce-1149-4b44-bddc-a314543b93e3">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
